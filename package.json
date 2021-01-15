@@ -1,6 +1,10 @@
 {
   "name": "@anecrow/eagle-im",
-  "version": "1.1.0",
+  "homepage": "https://github.com/anecrow/eagle-im",
+  "bugs": {
+    "url": "https://github.com/anecrow/eagle-im/issues"
+  },
+  "version": "1.1.1",
   "description": "API of Eagle image files management software. Support client version1.11 Build35 2020-09-07",
   "main": "index.js",
   "type": "module",
