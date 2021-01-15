@@ -1,6 +1,6 @@
 # API of **Eagle** image files management software
 
-Build [API](https://api.eagle.cool/) of [Eagle](https://eagle.cool/) with ES6.
+Build [API](https://api.eagle.cool/) for [Eagle](https://eagle.cool/) server with ES6.
 
 **Note:** This package is not official. Let me know if there have issues and Wellcome PR.
 
@@ -13,6 +13,7 @@ npm install @anecrow/eagle-im --save
 ```
 
 ### common
+
 Then import that module with:
 
 ```ES6
