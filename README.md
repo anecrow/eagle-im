@@ -2,7 +2,7 @@
 
 Build [API](https://api.eagle.cool/) for [Eagle](https://eagle.cool/) server with ES6.
 
-**Note:** This package is not official. Let me know if there have issues and Wellcome PR.
+**Note:** This package is not official. Let me know if there have issues and Welcome PR.
 
 ## Usage
 
