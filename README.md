@@ -1,4 +1,4 @@
-# API of **Eagle** image files management software
+# API for **Eagle** image files management software
 
 Build [API](https://api.eagle.cool/) for [Eagle](https://eagle.cool/) server with ES6.
 
