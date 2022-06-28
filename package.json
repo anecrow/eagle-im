@@ -4,7 +4,7 @@
   "bugs": {
     "url": "https://github.com/anecrow/eagle-im/issues"
   },
-  "version": "1.2.2",
+  "version": "2.0.0",
   "description": "API of Eagle image files management software. Support client version1.11 Build35 2020-09-07",
   "main": "index.js",
   "type": "module",
@@ -16,8 +16,5 @@
     "image"
   ],
   "author": "anecrow",
-  "license": "MIT",
-  "dependencies": {
-    "node-fetch": "^3.2.4"
-  }
+  "license": "MIT"
 }
